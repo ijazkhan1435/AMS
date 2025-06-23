@@ -1,0 +1,10 @@
+/* Add this to your index.css or a relevant CSS file */
+.sidebar {
+    width: 16.6667%; /* This ensures the sidebar width is fixed to 1/6 of the screen */
+    min-width: 200px; /* Optional: set a minimum width if needed */
+   
+}
+.custom-width {
+    width: 15rem;
+}
+

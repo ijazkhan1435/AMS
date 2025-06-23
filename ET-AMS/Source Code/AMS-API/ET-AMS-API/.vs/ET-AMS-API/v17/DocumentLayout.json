@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\controllers\\locationcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\controllers\\locationcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|d:\\et-clients\\et-ams\\et-ams\\source code\\ams-api\\et-ams-api\\et-ams-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2B98F7-2E98-4FCD-8AA3-8C59635A6870}|ET-AMS-API\\ET-AMS-API.csproj|solutionrelative:et-ams-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocationController .cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\LocationController .cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Controllers\\LocationController .cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\LocationController .cs",
+              "RelativeToolTip": "ET-AMS-API\\Controllers\\LocationController .cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAgwAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:18:31.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Models\\Location.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Models\\Location.cs",
+              "RelativeToolTip": "ET-AMS-API\\Models\\Location.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAIA3wFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T07:17:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Helper.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Helper.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Helper.cs",
+              "RelativeToolTip": "ET-AMS-API\\Helper.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:52:37.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\appsettings.json",
+              "RelativeDocumentMoniker": "ET-AMS-API\\appsettings.json",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\appsettings.json",
+              "RelativeToolTip": "ET-AMS-API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T11:23:06.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Program.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Program.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Program.cs",
+              "RelativeToolTip": "ET-AMS-API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:09:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ET-AMS-API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAtwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T12:46:02.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Models\\Users.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Models\\Users.cs",
+              "RelativeToolTip": "ET-AMS-API\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:23:56.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ET-AMS-API\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\ET-Clients\\ET-AMS\\ET-AMS\\Source Code\\AMS-API\\ET-AMS-API\\ET-AMS-API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ET-AMS-API\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T11:20:44.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

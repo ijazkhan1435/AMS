@@ -1,0 +1,16 @@
+/* Login.css */
+.shadow-custom-blue {
+    box-shadow: 0 4px 6px rgba(29, 78, 216, 0.5); /* Custom shadow color */
+}
+
+.shadow-dark {
+    box-shadow: 0 10px 15px rgba(0.5, 0.5, 0.5, 0.5); /* Dark shadow color */
+}
+
+/* Add background image styling */
+.bg-login {
+    background-image: url('../../Images/picbg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
