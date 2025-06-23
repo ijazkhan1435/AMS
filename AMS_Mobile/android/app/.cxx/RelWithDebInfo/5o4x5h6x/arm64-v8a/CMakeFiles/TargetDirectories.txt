@@ -1,0 +1,2 @@
+D:/EmergTecAMS/ET-AMS/ET-AMS/Source Code/AMS_Mobile/android/app/.cxx/RelWithDebInfo/5o4x5h6x/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/EmergTecAMS/ET-AMS/ET-AMS/Source Code/AMS_Mobile/android/app/.cxx/RelWithDebInfo/5o4x5h6x/arm64-v8a/CMakeFiles/rebuild_cache.dir
